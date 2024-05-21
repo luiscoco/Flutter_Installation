@@ -2,7 +2,10 @@
 
 ## 0. Prerequisites
 
-![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/f15e82e1-f405-4191-b528-0ec14cbc0086)
+### Hardware requeriments
+
+
+### Software requeriment
 
 Flutter supports 64-bit version of Microsoft **Windows 10 or later**
 
@@ -12,7 +15,13 @@ Install **VSCode** and **Flutter** extension
 
 ![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/29d7c341-5acc-4d7c-b393-d4a3cc3badb0)
 
-Install **Visual Studio Community Edition** 
+Install **Visual Studio Community Edition**: https://visualstudio.microsoft.com/vs/community/
+
+![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/492a6048-177d-446c-8415-c5e00f5ab427)
+
+Install **IntelliJ IDEA Community Edition**: https://www.jetbrains.com/idea/download/?section=windows
+
+![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/8e6c12dd-16d1-42d8-9bf5-9fe430fc6e3d)
 
 **Git for Windows 2.27 or later** to manage source code
 
