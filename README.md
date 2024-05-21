@@ -142,5 +142,27 @@ If you don't want to preserve your pub packages, remove the **.pub-cache** direc
 
 To remove Flutter commands from PowerShell, remove Flutter to the **PATH** environment variable
 
+## 1.7. Install Android SDK Command-line Tools
 
+Run Android Studio and select **More Actions/SDK Manager**
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/6eb3ca8b-b760-4846-ac47-668b4f0f1feb)
+
+Select the menu option **Android SDK Command Line Tools**
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/9f78b5a2-6483-4882-b14d-617e8b0d160a)
+
+## 1.8. Install Flutter and Dart plugins in IntelliJ IDEA Community Edition
+
+We first install **Flutter** plugin
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/ceb611ee-8be2-43e9-8977-7f8bf333e024)
+
+Then we install **Dart** plugin
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/5d5c77d4-af84-4833-ab00-d6eafe11c493)
+
+We verify we already installed Flutter and Dart plugins for IntelliJ 
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/d4320e4a-8e57-4c4d-8b3b-856e3fa8bba3)
 
