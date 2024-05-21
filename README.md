@@ -1,4 +1,4 @@
-# How to install Flutter in your laptop
+# How to install Flutter in your laptop and create a Mobile Device simulator with Android Studio
 
 ## 0. Prerequisites
 
