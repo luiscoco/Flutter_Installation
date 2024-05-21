@@ -170,4 +170,8 @@ We verify we already installed Flutter and Dart plugins for IntelliJ
 
 ![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/d4320e4a-8e57-4c4d-8b3b-856e3fa8bba3)
 
-## 1.9. How to create a new Device 
+## 1.9. How to create a new Android Virtual Device (AVD) in Android Studio
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/afa0ddb8-32b4-4550-9290-9d72144c25e7)
+
+
