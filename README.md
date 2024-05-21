@@ -8,9 +8,15 @@ Flutter supports 64-bit version of Microsoft **Windows 10 or later**
 
 These versions of Windows should include the required Windows **PowerShell 5 or later**
 
-Install VSCode
+Install **VSCode** and **Flutter** extension
 
-Install Visual Studio Community Edition 
+![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/29d7c341-5acc-4d7c-b393-d4a3cc3badb0)
+
+Install **Visual Studio Community Edition** 
+
+**Git for Windows 2.27 or later** to manage source code
+
+Install **Android Studio**: https://developer.android.com/studio/install
 
 
 
