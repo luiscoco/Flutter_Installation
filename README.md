@@ -56,7 +56,7 @@ Follow any additional instructions provided by flutter doctor to complete the se
 
 ![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/8d2e3463-14e0-44ef-9a71-1756a85ef79e)
 
-
+![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/78fd6f09-ee02-4532-99ed-b1714800f8b6)
 
 ## 1.5. How to Upgrade Flutter
 
