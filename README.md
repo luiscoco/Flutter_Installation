@@ -46,7 +46,9 @@ Download the latest stable version of the Flutter SDK
 
 ## 1.2. Extract the Flutter SDK**
 
-Extract the downloaded zip file to a desired location on your computer, for example, C:\flutter
+Extract the downloaded zip file to a desired location on your computer, for example, **C:\src\flutter**
+
+![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/b88372cb-c8a8-43f7-b363-a7a4c5304fca)
 
 ## 1.3. Update your PATH environmental variable
 
@@ -60,9 +62,11 @@ In the System Properties window, click on the Environment Variables button
 
 In the Environment Variables window, under System variables, find the Path variable, select it, and click Edit
 
-Click New and add the path to the flutter\bin directory, for example, C:\flutter\bin
+Click New and add the path to the flutter\bin directory, for example, **C:\src\flutter\bin**
 
 Click OK to close all windows
+
+![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/80508108-12c0-4963-9cd5-c3b0a16057a4)
 
 ## 1.4. Run flutter doctor
 
@@ -106,5 +110,9 @@ flutter upgrade
 
 This command will fetch the latest stable release of Flutter and update your installation
 
+## 1.6. How to uninstall Flutter
 
+```
+
+```
 
