@@ -172,6 +172,14 @@ We verify we already installed Flutter and Dart plugins for IntelliJ
 
 ## 1.9. How to create a new Android Virtual Device (AVD) in Android Studio
 
+We press the three dots button and then we select the option **Virtual Device Manager**
+
 ![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/afa0ddb8-32b4-4550-9290-9d72144c25e7)
 
+We press the **Create Device** button
 
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/dd72fa0c-cf61-45ff-a607-5c713e37bd92)
+
+We now have to chose a device definition and press the **Next** button
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/3cdf5725-7401-4b94-a306-862ab70353a1)
