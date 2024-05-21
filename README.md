@@ -42,15 +42,21 @@ Open a new command prompt or PowerShell window and run the following command to 
 flutter doctor
 ```
 
+![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/02e4b898-98f9-4290-8bcf-b1ac823ce7c1)
+
 or 
 
 ```
-fluter doctor -v
+flutter doctor -v
 ```
 
 This command will check your Flutter environment and display the installation status of dependencies and tools needed to develop Flutter apps
 
 Follow any additional instructions provided by flutter doctor to complete the setup
+
+![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/8d2e3463-14e0-44ef-9a71-1756a85ef79e)
+
+
 
 ## 1.5. How to Upgrade Flutter
 
