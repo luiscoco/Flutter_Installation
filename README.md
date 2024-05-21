@@ -1,5 +1,13 @@
 # How to install Flutter and Android Studio in your laptop
 
+## 0. Prerequisites
+
+Install VSCode
+
+Install Visual Studio Community Edition 
+
+
+
 ## 1. Start building Flutter native desktop apps on Windows
 
 https://docs.flutter.dev/get-started/install/windows/desktop
