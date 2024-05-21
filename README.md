@@ -16,6 +16,8 @@ Download the latest stable version of the Flutter SDK
 
 Extract the downloaded zip file to a desired location on your computer, for example, C:\flutter
 
+![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/64517bd7-7779-49b5-adf9-0de2aec03627)
+
 **Update your Path**:
 
 Add the flutter\bin directory to your system's PATH environment variable
