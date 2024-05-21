@@ -12,13 +12,13 @@ Go to the Flutter official website: Flutter SDK Download
 
 Download the latest stable version of the Flutter SDK
 
+![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/64517bd7-7779-49b5-adf9-0de2aec03627)
+
 ## 1.2. Extract the Flutter SDK**
 
 Extract the downloaded zip file to a desired location on your computer, for example, C:\flutter
 
-![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/64517bd7-7779-49b5-adf9-0de2aec03627)
-
-## 1.3. Update your Path
+## 1.3. Update your PATH environmental variable
 
 Add the flutter\bin directory to your system's PATH environment variable
 
@@ -51,4 +51,24 @@ fluter doctor -v
 This command will check your Flutter environment and display the installation status of dependencies and tools needed to develop Flutter apps
 
 Follow any additional instructions provided by flutter doctor to complete the setup
+
+## 1.5. How to Upgrade Flutter
+
+To check the version of Flutter installed on your system, you can use the following command in your terminal or command prompt:
+
+```
+flutter --version
+```
+
+This command will display the Flutter version along with other details like the Dart version and the framework version
+
+To upgrade your Flutter installation to the latest version, you can use the following command in your terminal or command prompt:
+
+```
+flutter upgrade
+```
+
+This command will fetch the latest stable release of Flutter and update your installation
+
+
 
