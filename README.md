@@ -183,3 +183,7 @@ We press the **Create Device** button
 We now have to chose a device definition and press the **Next** button
 
 ![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/3cdf5725-7401-4b94-a306-862ab70353a1)
+
+We select the **API 34** tab and then we press the **Next** button  
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/e8a70eef-af34-49a3-9a54-2b8f4bbf6d6a)
