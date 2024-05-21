@@ -4,6 +4,7 @@
 
 ### Hardware requeriments
 
+![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/f960ae23-98b7-423d-8738-871a26759a19)
 
 ### Software requeriment
 
