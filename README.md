@@ -196,5 +196,10 @@ We verify the similator was already created pressing the **Launch this AVD in th
 
 ![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/6569b77f-9784-4ca9-a2eb-a53c203abbfd)
 
+We can see the device is running 
 
-We press the 
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/1cfdcbb6-f34a-4c31-9f81-b0e0975c63c2)
+
+We can navigat with Google Chrome
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/07627a36-670f-4eb1-9edd-47d056b374e9)
