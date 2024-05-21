@@ -28,6 +28,9 @@ Install **IntelliJ IDEA Community Edition**: https://www.jetbrains.com/idea/down
 
 Install **Android Studio**: https://developer.android.com/studio/install
 
+Upgrade to latest version **Android Studio**
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/271c198e-f76e-4fc0-9e4d-eb77cdfa9205)
 
 
 ## 1. Start building Flutter native desktop apps on Windows
@@ -166,3 +169,4 @@ We verify we already installed Flutter and Dart plugins for IntelliJ
 
 ![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/d4320e4a-8e57-4c4d-8b3b-856e3fa8bba3)
 
+## 1.9. How to create a new Device 
