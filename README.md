@@ -112,7 +112,35 @@ This command will fetch the latest stable release of Flutter and update your ins
 
 ## 1.6. How to uninstall Flutter
 
-```
+### How to uninstall the SDK
 
-```
+Remove the flutter directory: **C:\src\flutter**
+
+### Remove Flutter configuration files
+
+If you don't want to preserve your Flutter configuration, remove the following directories from your home directory:
+
+**%APPDATA%'.flutter-devtools**
+
+### Remove Dart configuration files
+
+If you don't want to preserve your Dart configuration, remove the following directories from your home directory
+
+**%LOCALAPPDATA%'.dartServer**
+
+**%APPDATA%'.dart**
+
+**%APPDATA%'.dart-tool**
+
+## Remove pub package files
+
+If you want to remove Flutter but not Dart, don't complete this section
+
+If you don't want to preserve your pub packages, remove the **.pub-cache** directory from your home directory
+
+## Remove Flutter from your Windows Path variable
+
+To remove Flutter commands from PowerShell, remove Flutter to the **PATH** environment variable
+
+
 
