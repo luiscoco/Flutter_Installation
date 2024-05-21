@@ -30,8 +30,9 @@ Install **Android Studio**: https://developer.android.com/studio/install
 
 Upgrade to latest version **Android Studio**
 
-![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/271c198e-f76e-4fc0-9e4d-eb77cdfa9205)
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/562caf90-cd2f-4a4f-88da-e99195f72484)
 
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/271c198e-f76e-4fc0-9e4d-eb77cdfa9205)
 
 ## 1. Start building Flutter native desktop apps on Windows
 
