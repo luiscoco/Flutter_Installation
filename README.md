@@ -2,6 +2,12 @@
 
 ## 0. Prerequisites
 
+![image](https://github.com/luiscoco/Flutter_Installation/assets/32194879/f15e82e1-f405-4191-b528-0ec14cbc0086)
+
+Flutter supports 64-bit version of Microsoft **Windows 10 or later**
+
+These versions of Windows should include the required Windows **PowerShell 5 or later**
+
 Install VSCode
 
 Install Visual Studio Community Edition 
