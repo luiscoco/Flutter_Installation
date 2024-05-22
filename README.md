@@ -146,7 +146,7 @@ If you don't want to preserve your pub packages, remove the **.pub-cache** direc
 
 To remove Flutter commands from PowerShell, remove Flutter to the **PATH** environment variable
 
-## 1.7. Install Android SDK Command-line Tools
+## 1.7. Install Android SDK Command-line Tools and Android SDK Platform-Tools
 
 Run Android Studio and select **More Actions/SDK Manager**
 
