@@ -154,7 +154,11 @@ Run Android Studio and select **More Actions/SDK Manager**
 
 Select the menu option **Android SDK Command Line Tools**
 
-![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/9f78b5a2-6483-4882-b14d-617e8b0d160a)
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/2ba1b348-c0eb-4e03-b7d6-2ed85c324cd8)
+
+Select the menu option **Android SDK Platform-Tools**
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/09d8a2a5-d60f-42c8-856a-93dbfe9fc8e1)
 
 ## 1.8. Install Flutter and Dart plugins in IntelliJ IDEA Community Edition
 
